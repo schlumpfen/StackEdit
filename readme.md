@@ -33,3 +33,5 @@ Anschluss 10: Telematik
 **Keller (Dose 6)**
 Anschluss 11: Muss noch installiert werden
 Anschluss 12: Muss noch installiert werden
+
+https://www.youtube.com/watch?v=4n9yzjpiugM&t=79s
